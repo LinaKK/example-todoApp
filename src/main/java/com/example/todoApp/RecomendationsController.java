@@ -9,8 +9,8 @@ public class RecomendationsController {
     //"To-do Application !"출력 메서드
     @GetMapping("/")
     public String HelloWorld(){
-        return "To-do Application !";
 
+        return "To-do Application !";
     }
 
 }
