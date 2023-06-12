@@ -8,7 +8,7 @@ public class RecomendationsController {
     @GetMapping("/")
     public String HelloWorld(){
         return "To-do Application !";
-        
+
     }
 
 }
