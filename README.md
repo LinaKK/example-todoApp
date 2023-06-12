@@ -10,9 +10,9 @@ Todo 관리를 위한 웹 애플리케이션의 예시 repository입니다.
 
 ## Contributors
 
-- FE: //
+- FE: 
 - BE: 김리나
 
 ## Project Wiki
 
-//
+작성중입니다
